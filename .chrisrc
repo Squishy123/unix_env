@@ -1,0 +1,14 @@
+export PATH="/home/chris/scripts/bin:$PATH"
+
+# TMUX 
+alias tas="tmux attach-session -t"
+alias tks="tmux kill-session -t"
+alias tls="tmux ls"
+alias tms="tmux new -s" 
+
+# SYSTEM 
+alias cls="clear"
+
+# FOLDERS
+alias projects="cd ~/Projects"
+alias sandbox="cd ~/Sandbox"
